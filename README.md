@@ -5,7 +5,7 @@ Code for ESP32 board along with a ultrasonic and ball sensor in order to protect
 **Technologies used**
 C++, Arduino senors, ESP32
 
-**Time Outline**
+**Time Outline - Not in order**
 1. Created Idea
 2. Made code
 3. Used for loop to fine-tune constants
