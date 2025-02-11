@@ -1,7 +1,7 @@
-#define TRIG_PIN 5
-#define ECHO_PIN 18
-#define LED_PIN 16  
-#define BALL_SWITCH_PIN 14  
+# define TRIG_PIN 5
+# define ECHO_PIN 18
+# define LED_PIN 16  
+# define BALL_SWITCH_PIN 14  
 
 float previousDistance = 0;  
 const float distanceThreshold = 2.4;  
